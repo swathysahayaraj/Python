@@ -1,6 +1,9 @@
 # Loop backwards from 20 down to 1
 for num in range(20, 0, -1):
+
     # Check if the number is divisible by 2 AND NOT divisible by 4
     if num % 2 == 0 and num % 4 != 0:
-        continue  # Skip these numbers
+        continue  
+
+# Skip these numbers
     print(num)
