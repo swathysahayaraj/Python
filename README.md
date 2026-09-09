@@ -2,7 +2,7 @@
 This repository contains my python programs and practice exercises.
 
 ## Programs
-skip numbers which are divisible by 3
+beginner to intermediate practice problems
 More python programs will be added regularly.
 
 ## Language
